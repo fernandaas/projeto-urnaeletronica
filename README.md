@@ -31,7 +31,7 @@ Após escolher o seu candaidato o sistema retornará os dados do escolhido para 
     A) Esta tabela deve conter **todos os atributos do sistema** e um mínimo de 10 linhas/registros de dados.
     B) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
  <br> (veja o exemplo abaixo antes de criar a tabela para seu trabalho)
-    C) Após criada esta tabela não deve ser modificada, pois será comparada com os resultados finais na conclusão do trabalho
+    C) Após criada esta tabela não deve ser modificada, pois será comparada com os resultados finais na conclusão do trabalho.
     
  ### 5.PMC<br>
 ![image](https://user-images.githubusercontent.com/88466893/128278510-bdc8c61a-22d4-4398-9f94-9e68c4c2a690.png)
@@ -60,8 +60,8 @@ Após escolher o seu candaidato o sistema retornará os dados do escolhido para 
 ### 7	MODELO LÓGICO<br>
         a) inclusão do esquema lógico do banco de dados
         b) verificação de correspondencia com o modelo conceitual 
-        (não serão aceitos modelos que não estejam em conformidade)
+        (não serão aceitos modelos que não estejam em conformidade).
 ### 8	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
-        (criação de tabelas, alterações, etc..) 
+        (criação de tabelas, alterações, etc..).
         
