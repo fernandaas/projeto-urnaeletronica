@@ -22,7 +22,9 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 
 
 ### 3.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
+
+![image](https://user-images.githubusercontent.com/88466893/128277278-63d57460-af82-4c30-9dbb-a473070448ba.png)
+
 
 #### 3.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
 * Relatório que informe quais são os candidatos ao cargo incluido as seguintes informações: nome do candidato, cpf do candidato, matrícula do candidato, idade do candidato e número do candidato.
